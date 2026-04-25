@@ -60,3 +60,14 @@ config.yaml.bak
 /frontend/playwright-report/
 .gstack/
 .worktrees
+
+# Local personal docs / working notes
+docs/bugfix/
+docs/debug/
+docs/enhancement/
+docs/learning/
+docs/plans/
+docs/pr-evidence/
+
+# Local CLAUDE instructions (personal, do not push)
+CLAUDE.local.md
